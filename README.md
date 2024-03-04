@@ -1,4 +1,4 @@
-# eSanjivani
+#Git Commands 
 Healthcare Application for connecting Hospitals in India
 Author - Ritu Mahajan from z+
 <br>
